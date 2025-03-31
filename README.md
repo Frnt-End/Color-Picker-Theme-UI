@@ -1,4 +1,4 @@
-# Articles Blog App
+# Customize Theme App
 
 ![Preview](prev.jpg "Preview")
 
