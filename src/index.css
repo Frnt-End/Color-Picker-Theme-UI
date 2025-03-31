@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Nunito", "Segoe UI", Geneva, Verdana, sans-serif;
+}
+
+input[type="color"] {
+  appearance: none;
+  border: none;
+  padding: 0;
+  height: 50px;
+  width: 50px;
+}
+::-webkit-color-swatch {
+  border: none;
+}
+::-moz-color-swatch {
+  border: none;
+}
