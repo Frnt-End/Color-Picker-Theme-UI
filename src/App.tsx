@@ -69,10 +69,9 @@ function App() {
       title: "Creative Protfolio",
       description:
         "Bringing creative visions to life through elegant design and seamless UX.",
-      image:
-        "https://frnt-end.github.io/portfolio/images/gallery/thumbs/02.jpg",
-      link: "https://frnt-end.github.io/portfolio/",
-      tags: ["HTML", "SASS", "JavaScript"]
+      image: "https://i.ibb.co/6JqWJpkq/creadev.png",
+      link: "https://creatdev-portfolio.netlify.app/",
+      tags: ["React", "gsap", "Vite"]
     }
   ];
 
@@ -93,7 +92,7 @@ function App() {
   ];
 
   return (
-    <div className="relative z-0 min-h-screen bg-gray-900 text-gray-100">
+    <div className="relative z-0 min-h-screen bg-gray-900/90 text-gray-100">
       <div className="text-center 2xl:w-[5%] lg:w-[7%] w-[20%] top-[40%] right-0 fixed z-50">
         <div className="flex-col w-full items-center space-y-4 p-4 rounded-lg bg-gray-800/40 shadow-2xl">
           <h2 className="block text-gray-300 font-bold">Change Theme Color</h2>
@@ -127,7 +126,7 @@ function App() {
                 color: currentColor
               }}
             />
-            <span className="text-xl font-bold">Portfolio</span>
+            <span className="text-xl font-bold">DEV Portfolio</span>
           </div>
         </div>
       </nav>
@@ -153,7 +152,7 @@ function App() {
         <div
           className="absolute inset-0"
           style={{
-            background: `radial-gradient(circle at 50% 50%, ${currentColor}20 0%, transparent 50%)`
+            background: `radial-gradient(circle at 50% 50%, ${currentColor}30 0%, transparent 50%)`
           }}
         ></div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
