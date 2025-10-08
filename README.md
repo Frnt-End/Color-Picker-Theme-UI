@@ -2,14 +2,12 @@
 
 ![Preview](prev.jpg "Preview")
 
-Use the color picker on the right to play around with the color theme.
-
 👉 [Watch DEMO](https://color-picker-customize-theme.vercel.app/)
 
 ## 📁 Project Details
 
 - **React / Vite / TypeScript / Tailwind** app.
-- **App.tsx** is the main page.
+- Use the color picker on the right to play around with the color theme.
 
 ## 🌈 Localhost View
 
