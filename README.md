@@ -25,6 +25,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ---
 
-👉 [Watch DEMO](https://color-picker-customize-theme.vercel.app/)
+👉 [Watch DEMO](https://color-picker-theme-ui.vercel.app/)
 
 ---
