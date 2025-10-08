@@ -335,7 +335,13 @@ function App() {
       <footer className="backdrop-blur-lg bg-gray-900/80 border-t border-gray-800">
         <div className="flex justify-center h-16 max-w-7xl mx-auto py-6 sm:py-10 lg:py-12">
           <p className="text-gray-500">
-            All rights reserved. © Copyright 2019 Portfolio
+            All rights reserved. © Copyright 2019{" "}
+            <a
+              href="https://creatdev-portfolio.netlify.app/"
+              className="font-semibold transition-all duration-300 hover:text-white"
+            >
+              Nirit Nagar
+            </a>
           </p>
         </div>
       </footer>
