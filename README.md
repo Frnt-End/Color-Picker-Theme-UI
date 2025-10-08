@@ -1,8 +1,8 @@
 # Customize Theme App
 
-![Preview](prev.jpg "Preview")
+![Preview](prev.png "Preview")
 
-👉 [Watch DEMO](https://color-picker-customize-theme.vercel.app/)
+👉 [Watch DEMO](https://color-picker-theme-ui.vercel.app/)
 
 ## 📁 Project Details
 
